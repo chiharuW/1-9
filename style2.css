@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -46,6 +46,18 @@ main{
  background-image: url(img/flow03.png);
  background-size:cover;
  background-position: bottom;
+}
+
+.step-num{
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ff9a4b;
+  color: #fff;
+}
+
+.title{
+  margin: 15px 0 5px;
 }
 
 footer{
